@@ -1,0 +1,25 @@
+0 xxxx -> N 0
+0 Nxxx -> E 0
+0 NExx -> S 0
+0 xExx -> S 0
+0 xExS -> W 0
+0 xxxS -> W 0
+0 xxWS -> N 0
+0 xxWx -> N 0
+0 NxWx -> E 1
+1 Nxxx -> E 1
+1 NExx -> S 1
+1 xExx -> W 1
+1 xxxx -> W 1
+1 xxWx -> S 2
+2 xxWx -> E 2
+2 xxxx -> E 2
+2 xExx -> S 1
+3 xExx -> W 3
+3 xxxx -> W 3
+3 xxWx -> S 2
+2 xxWS -> E 2
+2 xxxS -> E 2
+
+
+
