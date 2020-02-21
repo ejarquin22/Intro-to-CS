@@ -1,0 +1,11 @@
+The first diasadvantage of subroutines no longer exists today because of the high speeds
+at which mondern-day computers are able to function. The second disadvantage no longer matters either since
+monder programming no longer requires the need to program subroutines everytime youd need to use one. One 
+advantage that Hopper does not mention is that modner programs like python allow you to creats loops that call on functions
+as many times as you want without having to create the program again.
+
+
+The fact that I found interesting in this article was that people are able to relate a heroin addiction
+to the over use of social media platforms. Between Harris and  Nir, I side more with Harris. I agree with the 
+fact that Silicon Valley tech's do try to formulate ways to get their users hooked on their apps, which as Harris says
+requires a lack of consiousness. 

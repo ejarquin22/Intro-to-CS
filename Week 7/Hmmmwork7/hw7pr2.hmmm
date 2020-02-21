@@ -1,0 +1,21 @@
+# hw7 problem 2
+#
+# Name(s): Emanuel Jarquin
+#
+
+# This is a placeholder whose code you'll replace:
+00 read r1          # get # from user to r1
+01 read r2          # ditto, for r2
+02 nop
+03 setn r4 1         # sets r4 to equal 1
+04 jeqzn r1 12       # if r1 is zero, jump to line 12
+05 jeqzn r2 12       # if r2 is zero, jump to line 12
+06 mul r3 r4 r1      # r3 = r1 * r1
+07 copy r4 r3        # r4 = r3
+08 nop
+09 addn r2 -1        # add -1 to r2
+10 jumpn 4           # jump to line 2
+11 nop
+12 nop
+13 write r4         # print what's in r3
+14 halt             # stop.

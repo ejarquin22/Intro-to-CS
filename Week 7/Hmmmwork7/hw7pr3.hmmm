@@ -1,0 +1,20 @@
+# hw7 problem 3
+#
+# Name(s): 
+#
+# Hmmm...
+#
+
+# This is a placeholder whose code you'll replace:
+00 read r1          # get # from user to r1
+01 setn r2 1        # r2 =1
+02 setn r4 0        # r3 = 0
+03 jeqzn r1 11      # if r1 = 0 jump to line 9
+04 nop
+05 write r2         # print r2
+06 add r3 r2 r4     # r3 = r2 + r4
+07 copy r2 r3       # r2 = r3   
+08 sub r4 r3 r4     # r4 = r3 - r4
+09 addn r1 -1       # r1 = r1 - 1
+10 jumpn 3          # jump to line 1
+11 halt             # stop.
