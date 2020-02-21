@@ -1,6 +1,6 @@
 # Intro-to-CS
 
-This aims to serve as a dictionary of past work.
+This repository aims to serve as a collection of past work.
 
 Class: Intro to Computer Science 
 
