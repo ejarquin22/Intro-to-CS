@@ -18,17 +18,17 @@ Week 5: Objects and Classes
 
 Week 6: N/A 
 
-Week 7: Hmmm... Assembly Language Programming
+Week 7: Hmmm (Harvey Mudd Minature Machine) and Assembly Language Programming
 
-Week 8:
+Week 8: Working with Loops
 
-Week 9:
+Week 9: 2D Arrays and Mutable Data
 
-Week 10:
+Week 10: Classes and Objects
 
-Week 11:
+Week 11: Humans and Software: UIs and AIs
 
-Exam Review:
+Exam Review: Practice Functions for studying for Final Exam
 
-Final:
+Final: Milestone Project (Connect Four AI)
 
