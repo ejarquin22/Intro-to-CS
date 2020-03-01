@@ -6,7 +6,8 @@ This repository aims to:
 
 # Class: Intro to Computer Science 
 
-Week 1:
+Week 1: 
+  Focuses
 
 Week 2:
 
