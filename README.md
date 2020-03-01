@@ -6,20 +6,19 @@ This repository aims to:
 
 # Class: Intro to Computer Science 
 
-Week 1: 
-  Focuses
+Week 1: Programming basics
 
-Week 2:
+Week 2: Patterns and Functions
 
-Week 3:
+Week 3: Functioning Recursively
 
-Week 4:
+Week 4: Designing Functions and Working with Lists
 
-Week 5:
+Week 5: Objects and Classes
 
-Week 6:
+Week 6: N/A 
 
-Week 7:
+Week 7: Hmmm... Assembly Language Programming
 
 Week 8:
 
